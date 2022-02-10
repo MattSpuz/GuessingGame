@@ -1,0 +1,10 @@
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_4\GrossPayCalculator\bin\Debug\GrossPayCalculator.exe.config
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_4\GrossPayCalculator\bin\Debug\GrossPayCalculator.exe
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_4\GrossPayCalculator\bin\Debug\GrossPayCalculator.pdb
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_4\GrossPayCalculator\obj\Debug\GrossPayCalculator.csproj.AssemblyReference.cache
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_4\GrossPayCalculator\obj\Debug\GrossPayCalculator.Form1.resources
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_4\GrossPayCalculator\obj\Debug\GrossPayCalculator.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_4\GrossPayCalculator\obj\Debug\GrossPayCalculator.csproj.GenerateResource.cache
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_4\GrossPayCalculator\obj\Debug\GrossPayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_4\GrossPayCalculator\obj\Debug\GrossPayCalculator.exe
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_4\GrossPayCalculator\obj\Debug\GrossPayCalculator.pdb
