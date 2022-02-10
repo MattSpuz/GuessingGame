@@ -1,0 +1,10 @@
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_6\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_6\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_6\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_6\GuessingGame\obj\Debug\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_6\GuessingGame\obj\Debug\GuessingGame.Form1.resources
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_6\GuessingGame\obj\Debug\GuessingGame.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_6\GuessingGame\obj\Debug\GuessingGame.csproj.GenerateResource.cache
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_6\GuessingGame\obj\Debug\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_6\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\Matthew\Desktop\Myword2\5th_semester\C#_Advance\Module_6\GuessingGame\obj\Debug\GuessingGame.pdb
